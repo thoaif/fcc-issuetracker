@@ -1,6 +1,8 @@
 **FreeCodeCamp**- Information Security and Quality Assurance
 ------
 
+This is a project on FreeCodeCamp's Information Security and Quality Assurance curriculum
+
 Project Issue Tracker
 
 1) SET NODE_ENV to `test` without quotes and set DB to your mongo connection string in .env file
